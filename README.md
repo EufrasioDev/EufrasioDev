@@ -1,7 +1,7 @@
-### Olá!👋 
-# Eu sou Eufrásio Quixindo.
+### HI!👋 
+# I'm Eufrásio Quixindo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EufrasioDev&show_icons=true&theme=dracula)
+![Eufrasio GitHub stats](https://github-readme-stats.vercel.app/api?username=EufrasioDev&show_icons=true&theme=dracula)
 
 ## Technologies I use in my day-to-day life:
 
