@@ -1,5 +1,5 @@
 ### Olá!👋 
-Eu sou Eufrásio Quixindo.
+# Eu sou Eufrásio Quixindo.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EufrasioDev&show_icons=true&theme=dracula)
 
